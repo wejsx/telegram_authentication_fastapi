@@ -12,3 +12,8 @@
 
 - Создайте бота в BotFather и получите токен и вставьте его в (TOKEN_BOT)
 - Заполните такие поля как - data-telegram-login="" например --> 'botauthtelegram' и data-auth-url="" например --> https://url/auth/telegram
+
+
+### Подробная документация от Telegram
+
+https://core.telegram.org/widgets/login
